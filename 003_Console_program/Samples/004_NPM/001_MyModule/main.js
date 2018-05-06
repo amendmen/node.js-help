@@ -1,0 +1,2 @@
+require('introvladmodule');
+require('./index');
